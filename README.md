@@ -2,7 +2,7 @@
 
 I am Full Stack Developer currently studying Mobile App Development @ Algonquin College - Ottawa/Canada
 
-- 🔭 Working on multiple frontend and backend project using Vanilla Javascript, React and Node JS. <b>Check them out inside my repositories!</b>
+- 🔭 Working on multiple frontend and backend projects using Vanilla Javascript, React and Node JS. <b>Check them out inside my repositories!</b>
 - 🌱 Curious and researcher by nature, learning design in depth and emerging technologies like Blockchain, through Solidity (Ethereum) Development.
 <br>
 
