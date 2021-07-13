@@ -11,6 +11,7 @@ I am Full Stack Developer currently studying Mobile App Development @ Algonquin 
 
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/gil00013)
 <br>
+<br>
 
 ## Technologies
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +21,6 @@ I am Full Stack Developer currently studying Mobile App Development @ Algonquin 
 <img align="left" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="left" alt="Solidity" src="https://img.shields.io/badge/solidity-%23092E20.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <br>
 <br>
 
@@ -30,7 +30,6 @@ I am Full Stack Developer currently studying Mobile App Development @ Algonquin 
 <img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img align="left" alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img align="left" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-
 <br>
 <br>
 
