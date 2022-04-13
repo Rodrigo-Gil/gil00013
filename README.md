@@ -6,6 +6,8 @@ I am Full Stack Developer currently studying Mobile App Development @ Algonquin 
 - 🌱 Curious and researcher by nature, learning design in depth and emerging technologies like Blockchain, through Solidity (Ethereum) Development.
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gil00013)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rodrigogil-dev/)
 
